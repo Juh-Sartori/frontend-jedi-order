@@ -8,7 +8,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/center-panel" element={<CenterPanel />} />
-          <Route path="/analysis" element={<Analysi />} />
+          <Route path="/analysis" element={<Analysis />} />
           <Route path="/contact" element={<Contac />} />
           <Route path="/change-password" element={<ChangePassword />} />
           <Route path="/map" element={<Map />} />
